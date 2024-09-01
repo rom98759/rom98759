@@ -3,7 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rom98759&label=Profile%20views&color=0e75b6&style=flat" alt="rom98759" /> </p>
 
-- 🌱 I’m currently learning **C, C++ and python**
+👋 Hi! I'm Romain, a software development student at [42 Angoulême](https://www.42.fr/), passionate about technology, innovation, and developing creative solutions. I've just started my journey at 42, and I'm excited to dive into the world of coding and tackle the challenges this unique school offers.
+
+## 🌱 Currently Learning
+- C, C++, and Python
+- Algorithms and data structures
+- Git & GitHub for project management
+- Web development (HTML, CSS, JavaScript)
+
+## 🎯 Goals
+- Become a versatile developer, capable of solving complex problems
+- Contribute to open-source projects
+- Collaborate with developers around the world to learn and share knowledge
+
 
 - 📫 How to reach me **romain.student42@gmail.com**
 
