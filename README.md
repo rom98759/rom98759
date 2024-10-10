@@ -17,7 +17,7 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
 - Collaborate with developers around the world to learn and share knowledge
 
 
-## 📫 How to reach me **romain.student42@gmail.com**
+## 📫 How to reach me **rcaillie@student.42angouleme.fr**
 
 
 <h3 align="left">Languages and Tools:</h3>
