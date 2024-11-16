@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=rom98759&label=Profile%20views&color=0e75b6&style=flat" alt="rom98759" />
 </div>
 
-<br>
-
-I'm a software development student at <a href="https://www.42.fr/" target="_blank">42 Angoulême</a>, passionate about technology, innovation, and developing creative solutions.
-
 ## 📍 Languages and Tools:
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
