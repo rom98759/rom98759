@@ -13,7 +13,8 @@
 </div>
 
 <br>
-I'm a software development student at [42 Angoulême](https://www.42.fr/) , passionate about technology, innovation, and developing creative solutions.
+
+I'm a software development student at <a href="https://www.42.fr/" target="_blank">42 Angoulême</a>, passionate about technology, innovation, and developing creative solutions.
 
 ## 📍 Languages and Tools:
 <p align="center">
@@ -58,6 +59,7 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/) , pass
 
 ## 🏆 Achievements:
 - Participated in the [CSAW Competition](https://www.csaw.io/), gaining valuable experience in cybersecurity and problem-solving.
+- Member of the [RoboCup Junior](https://www.robocup.org/) team, where we program robots to compete in international robotics soccer competitions.
 
 ## 📍 Stay Connected:
 - Follow me on GitHub: [rom98759](https://github.com/rom98759)
