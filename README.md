@@ -13,7 +13,7 @@
 </div>
 
 <br>
-I'm a software development student at [42 Angoulême](https://www.42.fr/), passionate about technology, innovation, and developing creative solutions.
+I'm a software development student at [42 Angoulême](https://www.42.fr/) , passionate about technology, innovation, and developing creative solutions.
 
 ## 📍 Languages and Tools:
 <p align="center">
