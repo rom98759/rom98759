@@ -5,11 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=rom98759&label=Profile%20views&color=0e75b6&style=flat" alt="rom98759" />
 </p>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/l2SpSzX8yRPSM6es4/giphy.gif" alt="Coding Animation" width="500" />
-</p>
+I'm a software development student at [42 Angoulême](https://www.42.fr/), passionate about technology, innovation, and developing creative solutions.
 
-I'm a software development student at [42 Angoulême](https://www.42.fr/), passionate about technology, innovation, and developing creative solutions. I've just started my journey at 42, and I'm excited to dive into the world of coding and tackle the challenges this unique school offers.
+<br>
 
 ## 🌱 Currently Learning
 - C, C++, and Python
@@ -17,13 +15,12 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
 - Git & GitHub for project management
 - Web development (HTML, CSS, JavaScript)
 
-## 🎯 Goals
-- Become a versatile developer, capable of solving complex problems
-- Contribute to open-source projects
-- Collaborate with developers around the world to learn and share knowledge
+<br>
 
 ## 📫 How to reach me
 **rcaillie@student.42angouleme.fr**
+
+<br>
 
 ## 📍 Languages and Tools:
 <h3 align="center">Languages and Tools</h3>
@@ -45,15 +42,15 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
     </a>
 </p>
 
+<br>
+
 ## 🏆 Achievements:
 - Participated in the [CSAW Competition](https://www.csaw.io/), gaining valuable experience in cybersecurity and problem-solving.
 
-## ✨ Fun Facts About Me:
-- I love exploring new technologies and trying out cool tools!
-- When I'm not coding, I enjoy [playing video games](https://www.coolmathgames.com/), especially strategy games and puzzles.
-
 ## 🧑‍💻 My GitHub Stats:
 ![Romain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rom98759&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+<br>
 
 ## 42 School Projects
 
@@ -74,24 +71,15 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get Next Line" title="125/100" />
   </a>
   <a href="">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/born2beroote.png" alt="Born 2 Be Root" title="125/100" />
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/born2beroote.png" alt="Born 2 Be Root" title="100/100" />
   </a>
   <a href="https://github.com/rom98759/minitalk" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk" title="125/100" />
   </a>
 </div>
 
-
-
 <br>
-<br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rom98759/rom98759/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/><br/>
-</div>
 
 ## 📍 Stay Connected:
 - Follow me on GitHub: [rom98759](https://github.com/rom98759)
