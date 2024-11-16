@@ -23,11 +23,6 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
 - Git & GitHub for project management
 - Web development (HTML, CSS, JavaScript)
 
-<br>
-
-## 📫 How to reach me
-**rcaillie@student.42angouleme.fr**
-
 
 ## 📍 Languages and Tools:
 <h3 align="center">Languages and Tools</h3>
@@ -58,8 +53,6 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
 ## 🏆 Achievements:
 - Participated in the [CSAW Competition](https://www.csaw.io/), gaining valuable experience in cybersecurity and problem-solving.
 
-
-
 ## 42 School Projects
 
 <div align="center">
@@ -79,7 +72,6 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk" title="125/100" />
   </a>
 </div>
-
 
 ## 📍 Stay Connected:
 - Follow me on GitHub: [rom98759](https://github.com/rom98759)
