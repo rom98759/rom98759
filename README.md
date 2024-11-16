@@ -16,14 +16,6 @@
 
 I'm a software development student at [42 Angoulême](https://www.42.fr/), passionate about technology, innovation, and developing creative solutions.
 
-
-## 🤓 What I’m currently learning
-- C, C++, and Python
-- Algorithms and data structures
-- Git & GitHub for project management
-- Web development (HTML, CSS, JavaScript)
-
-
 ## 📍 Languages and Tools:
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
@@ -48,13 +40,10 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
 
 </p>
 
-<br>
-
 ## 🏆 Achievements:
 - Participated in the [CSAW Competition](https://www.csaw.io/), gaining valuable experience in cybersecurity and problem-solving.
 
 ## 42 School Projects
-
 <div align="center">
   <a href="https://github.com/rom98759/Libft" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/libftm.png" alt="Libft" title="125/100" />
