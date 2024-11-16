@@ -22,11 +22,6 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
 - Contribute to open-source projects
 - Collaborate with developers around the world to learn and share knowledge
 
-## 🎮 Fun Mini-Game
-Play a quick game with me! Just click below to start:
-
-[![Click to Play](https://img.shields.io/badge/Start%20Game-%F0%9F%8E%AE-blue)](https://www.coolmathgames.com/0-to-9)
-
 ## 📫 How to reach me
 **rcaillie@student.42angouleme.fr**
 
@@ -60,7 +55,44 @@ Play a quick game with me! Just click below to start:
 ## 🧑‍💻 My GitHub Stats:
 ![Romain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rom98759&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
+## 42 School Projects
+
+<div align="center">
+  <a href="https://profile.intra.42.fr/users/rcaillie" target="_blank">
+    <img src="https://img.shields.io/badge/Intra-rcaillie-dark_green?&logo=42&logoColor=white" alt="42SP" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/rom98759/Libft" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/libftm.png" alt="Libft" title="125/100" />
+  </a>
+  <a href="https://github.com/rom98759/Printf" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" title="100/100" />
+  </a>
+  <a href="https://github.com/rom98759/Get_next_line" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get Next Line" title="125/100" />
+  </a>
+  <a href="">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/born2beroote.png" alt="Born 2 Be Root" title="125/100" />
+  </a>
+  <a href="https://github.com/rom98759/minitalk" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk" title="125/100" />
+  </a>
+</div>
+
+
+
+<br>
+<br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rom98759/rom98759/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
 ## 📍 Stay Connected:
 - Follow me on GitHub: [rom98759](https://github.com/rom98759)
 - Email me: [rcaillie@student.42angouleme.fr](mailto:rcaillie@student.42angouleme.fr)
-
