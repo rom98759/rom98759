@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software development student at 42 Angoulême</h3>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=rom98759&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="Romain's GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=rom98759&show_icons=true&rank_icon=github&hide=prs,issues&theme=dracula" alt="Romain's GitHub Stats" />
 </div>
 
 <div align="center">
@@ -13,6 +13,8 @@
 </div>
 
 <br>
+
+I'm a software development student at <a href="https://www.42.fr/" target="_blank">42 Angoulême</a>, passionate about technology, innovation, and developing creative solutions.
 
 ## 📍 Languages and Tools:
 <p align="center">
