@@ -13,11 +13,9 @@
 </div>
 
 <br>
-
 I'm a software development student at [42 Angoulême](https://www.42.fr/), passionate about technology, innovation, and developing creative solutions.
 
 ## 📍 Languages and Tools:
-<h3 align="center">Languages and Tools</h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
@@ -37,11 +35,7 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
     </a>
-
 </p>
-
-## 🏆 Achievements:
-- Participated in the [CSAW Competition](https://www.csaw.io/), gaining valuable experience in cybersecurity and problem-solving.
 
 ## 42 School Projects
 <div align="center">
@@ -61,6 +55,9 @@ I'm a software development student at [42 Angoulême](https://www.42.fr/), passi
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk" title="125/100" />
   </a>
 </div>
+
+## 🏆 Achievements:
+- Participated in the [CSAW Competition](https://www.csaw.io/), gaining valuable experience in cybersecurity and problem-solving.
 
 ## 📍 Stay Connected:
 - Follow me on GitHub: [rom98759](https://github.com/rom98759)
