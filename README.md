@@ -2,7 +2,9 @@
 <h3 align="center">A passionate software development student at 42 Angoulême</h3>
 
 <div align="center">
+	<img src="img/header.jpg" alt="Header picture" />
 	<img src="https://github-readme-stats.vercel.app/api?username=rom98759&show_icons=true&rank_icon=github&hide=prs,issues&theme=dracula" alt="Romain's GitHub Stats" />
+
 </div>
 
 <div align="center">
