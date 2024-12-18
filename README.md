@@ -60,6 +60,7 @@
 - Member of the [RoboCup Junior](https://www.robocup.org/) team, where we program robots to compete in international robotics soccer competitions.
 
 ## 📍 Stay Connected:
+- My portfolio : [Portfolio](https://rom98759.github.io/)
 - Follow me on GitHub: [rom98759](https://github.com/rom98759)
 - Email me: [rcaillie@student.42angouleme.fr](mailto:rcaillie@student.42angouleme.fr)
 
