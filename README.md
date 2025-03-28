@@ -44,7 +44,7 @@
   <a href="https://github.com/rom98759/ft_printf" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" title="100/100" />
   </a>
-  <a href="https://github.com/rom98759/Get_next_line" target="_blank">
+  <a href="https://github.com/rom98759/Get-Next-Line" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get Next Line" title="125/100" />
   </a>
   <a href="">
