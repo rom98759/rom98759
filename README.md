@@ -41,7 +41,7 @@
   <a href="https://github.com/rom98759/Libft" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/libftm.png" alt="Libft" title="125/100" />
   </a>
-  <a href="https://github.com/rom98759/Printf" target="_blank">
+  <a href="https://github.com/rom98759/ft_printf" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" title="100/100" />
   </a>
   <a href="https://github.com/rom98759/Get_next_line" target="_blank">
@@ -50,9 +50,18 @@
   <a href="">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/born2beroote.png" alt="Born 2 Be Root" title="100/100" />
   </a>
-  <a href="https://github.com/rom98759/minitalk" target="_blank">
+  <a href="https://github.com/rom98759/Minitalk" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk" title="125/100" />
   </a>
+<a href="https://github.com/rom98759/push_swap" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/push_swape.png" alt="Push Swap" title="100/100" />
+</a>
+<a href="https://github.com/rom98759/So_long" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/so_longm.png" alt="So long" title="125/100" />
+</a>
+<a href="https://github.com/rom98759/Philosophers" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers" title="100/100" />
+</a>
 </div>
 
 ## 🏆 Achievements:
