@@ -62,6 +62,24 @@
 <a href="https://github.com/rom98759/Philosophers" target="_blank">
     <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers" title="100/100" />
 </a>
+<a href="https://github.com/rom98759/minishell" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minishelle.png" alt="Minishell" title="101/100" />
+</a>
+<a href="https://github.com/rom98759/cub3d" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/cub3dm.png" alt="Cub3d" title="125/100" />
+</a>
+<a href="https://github.com/rom98759/netpractice" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/netpracticee.png" alt="netpracticee" title="100/100" />
+</a>
+<a href="https://github.com/rom98759/cpp" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/cppe.png" alt="cpp" title="All cpp" />
+</a>
+<a href="https://github.com/rom98759/ft_irc" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/ft_irce.png" alt="ft_irc" title="125/125" />
+</a>
+<a href="https://github.com/rom98759/inception" target="_blank">
+    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/inceptionm.png" alt="inception" title="125/125" />
+</a>
 </div>
 
 ## 🏆 Achievements:
