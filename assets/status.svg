@@ -1,0 +1,18 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Current focus</title>
+  <desc id="desc">Current focus areas: backend, security and infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="150" gradientUnits="userSpaceOnUse"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#1E293B"/></linearGradient>
+  </defs>
+  <rect width="1200" height="150" rx="16" fill="url(#bg)"/>
+  <g font-family="monospace">
+    <text x="48" y="48" fill="#F8FAFC" font-size="18" font-weight="700">CURRENT FOCUS</text>
+    <text x="48" y="76" fill="#94A3B8" font-size="13">The areas I am actively connecting through projects.</text>
+    <g font-size="15" font-weight="700">
+      <rect x="48" y="96" width="245" height="36" rx="8" fill="#164E63"/><text x="170" y="119" text-anchor="middle" fill="#A5F3FC">BACKEND / APIs</text>
+      <rect x="310" y="96" width="245" height="36" rx="8" fill="#713F12"/><text x="432" y="119" text-anchor="middle" fill="#FEF3C7">SECURITY / AppSec</text>
+      <rect x="572" y="96" width="245" height="36" rx="8" fill="#14532D"/><text x="694" y="119" text-anchor="middle" fill="#DCFCE7">INFRA / Linux</text>
+      <rect x="834" y="96" width="318" height="36" rx="8" fill="#4C1D95"/><text x="993" y="119" text-anchor="middle" fill="#EDE9FE">AUTOMATION / DevSecOps</text>
+    </g>
+  </g>
+</svg>

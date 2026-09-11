@@ -1,0 +1,29 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Romain's lab</title>
+  <desc id="desc">Four areas of experimentation: local AI, security, infrastructure and hardware.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="1" stop-color="#1E293B"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#94A3B8" fill-opacity="0.18"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect width="1200" height="360" rx="18" fill="url(#dots)"/>
+  <g font-family="monospace">
+    <text x="54" y="58" fill="#F8FAFC" font-size="24" font-weight="700">LAB / CURRENT EXPERIMENTS</text>
+    <text x="54" y="84" fill="#94A3B8" font-size="14">Small systems, practical questions, reproducible experiments.</text>
+    <g fill="#172337" stroke-width="2">
+      <rect x="54" y="116" width="250" height="184" rx="12" stroke="#67E8F9"/>
+      <rect x="330" y="116" width="250" height="184" rx="12" stroke="#FDE68A"/>
+      <rect x="606" y="116" width="250" height="184" rx="12" stroke="#A7F3D0"/>
+      <rect x="882" y="116" width="264" height="184" rx="12" stroke="#C4B5FD"/>
+    </g>
+    <g font-size="18" font-weight="700">
+      <text x="78" y="155" fill="#67E8F9">LOCAL AI</text><text x="354" y="155" fill="#FDE68A">SECURITY</text>
+      <text x="630" y="155" fill="#A7F3D0">INFRA</text><text x="906" y="155" fill="#C4B5FD">HARDWARE</text>
+    </g>
+    <g fill="#CBD5E1" font-size="14">
+      <text x="78" y="190">Ollama</text><text x="78" y="216">llama.cpp</text><text x="78" y="242">Quantization</text><text x="78" y="268">Local inference</text>
+      <text x="354" y="190">API auditing</text><text x="354" y="216">Honeypots</text><text x="354" y="242">AppSec</text><text x="354" y="268">Attack patterns</text>
+      <text x="630" y="190">Docker</text><text x="630" y="216">Kubernetes</text><text x="630" y="242">Self-hosting</text><text x="630" y="268">Monitoring</text>
+      <text x="906" y="190">IoT</text><text x="906" y="216">3D printing</text><text x="906" y="242">Electronics</text><text x="906" y="268">Automation</text>
+    </g>
+  </g>
+</svg>

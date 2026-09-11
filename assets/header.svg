@@ -1,0 +1,56 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Romain Caillier - Software, Security, Infrastructure</title>
+  <desc id="desc">A dark technical network with animated data packets around the profile title.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101827"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#17202F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="80" x2="1080" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <path d="M0 282C190 222 280 320 460 268C652 212 718 85 910 130C1028 158 1084 108 1200 72" stroke="#67E8F9" stroke-opacity="0.16" stroke-width="2"/>
+
+  <g stroke="#64748B" stroke-opacity="0.45" stroke-width="2">
+    <path d="M74 170L218 82L378 122L520 68"/>
+    <path d="M74 170L218 258L378 218L520 272"/>
+    <path d="M520 68L680 170L520 272"/>
+    <path d="M680 170L840 82L1010 128L1126 70"/>
+    <path d="M680 170L840 258L1010 212L1126 270"/>
+  </g>
+
+  <g fill="#172337" stroke="#67E8F9" stroke-width="2">
+    <circle cx="74" cy="170" r="8"/><circle cx="218" cy="82" r="8"/><circle cx="218" cy="258" r="8"/>
+    <circle cx="378" cy="122" r="8"/><circle cx="378" cy="218" r="8"/><circle cx="520" cy="68" r="8"/><circle cx="520" cy="272" r="8"/>
+    <circle cx="680" cy="170" r="10" fill="#67E8F9"/><circle cx="840" cy="82" r="8"/><circle cx="840" cy="258" r="8"/>
+    <circle cx="1010" cy="128" r="8"/><circle cx="1010" cy="212" r="8"/><circle cx="1126" cy="70" r="8"/><circle cx="1126" cy="270" r="8"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle r="5" fill="#A7F3D0">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M74 170L218 82L378 122L520 68L680 170L840 82L1010 128L1126 70"/>
+    </circle>
+    <circle r="5" fill="#FDE68A">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M74 170L218 258L378 218L520 272L680 170L840 258L1010 212L1126 270"/>
+    </circle>
+  </g>
+
+  <g text-anchor="middle" font-family="monospace">
+    <text x="600" y="145" fill="#F8FAFC" font-size="46" font-weight="700" letter-spacing="2">ROMAIN CAILLIER</text>
+    <text x="600" y="184" fill="#A7F3D0" font-size="18" letter-spacing="3">SOFTWARE · SECURITY · INFRASTRUCTURE</text>
+    <text x="600" y="226" fill="#CBD5E1" font-size="14">BUILD  /  BREAK  /  UNDERSTAND  /  AUTOMATE</text>
+  </g>
+</svg>

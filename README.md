@@ -1,93 +1,217 @@
-<h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="center">A passionate software development student at 42 Angoulême</h3>
-
 <div align="center">
-	<img src="img/header.jpg" alt="Header picture" />
-	<img src="https://github-readme-stats.vercel.app/api?username=rom98759&show_icons=true&rank_icon=github&hide=prs,issues&theme=dracula" alt="Romain's GitHub Stats" />
 
-</div>
+<img src="assets/header.svg" width="100%" alt="Romain Caillier - Software, Security, Infrastructure" />
 
-<div align="center">
-  <a href="https://profile.intra.42.fr/users/rcaillie" target="_blank">
-	<img src="https://img.shields.io/badge/Intra-rcaillie-dark_green?&logo=42&logoColor=white" alt="42SP" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rom98759&label=Profile%20views&color=0e75b6&style=flat" alt="rom98759" />
-</div>
-
-## 📍 Languages and Tools:
-<p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-    </a>
-	<a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-    </a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-    </a>
-	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-	</a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-    </a>
+<p>
+  <a href="https://caillier-romain.fr"><img src="https://img.shields.io/badge/Portfolio-caillier--romain.fr-172337?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/romain-caillier/"><img src="https://img.shields.io/badge/LinkedIn-172337?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/rom98759"><img src="https://img.shields.io/badge/GitHub-172337?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
 
-## 42 School Projects
-<div align="center">
-  <a href="https://github.com/rom98759/Libft" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/libftm.png" alt="Libft" title="125/100" />
-  </a>
-  <a href="https://github.com/rom98759/ft_printf" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" title="100/100" />
-  </a>
-  <a href="https://github.com/rom98759/Get-Next-Line" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get Next Line" title="125/100" />
-  </a>
-  <a href="">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/born2beroote.png" alt="Born 2 Be Root" title="100/100" />
-  </a>
-  <a href="https://github.com/rom98759/Minitalk" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk" title="125/100" />
-  </a>
-<a href="https://github.com/rom98759/push_swap" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/push_swape.png" alt="Push Swap" title="100/100" />
-</a>
-<a href="https://github.com/rom98759/So_long" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/so_longm.png" alt="So long" title="125/100" />
-</a>
-<a href="https://github.com/rom98759/Philosophers" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers" title="100/100" />
-</a>
-<a href="https://github.com/rom98759/minishell" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/minishelle.png" alt="Minishell" title="101/100" />
-</a>
-<a href="https://github.com/rom98759/cub3d" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/cub3dm.png" alt="Cub3d" title="125/100" />
-</a>
-<a href="https://github.com/rom98759/netpractice" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/netpracticee.png" alt="netpracticee" title="100/100" />
-</a>
-<a href="https://github.com/rom98759/cpp" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/cppe.png" alt="cpp" title="All cpp" />
-</a>
-<a href="https://github.com/rom98759/ft_irc" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/ft_irce.png" alt="ft_irc" title="125/125" />
-</a>
-<a href="https://github.com/rom98759/inception" target="_blank">
-    <img src="https://github.com/rom98759/42-project-badges/blob/main/badges/inceptionm.png" alt="inception" title="125/125" />
-</a>
 </div>
 
-## 🏆 Achievements:
-- Participated in the [CSAW Competition](https://www.csaw.io/), gaining valuable experience in cybersecurity and problem-solving.
-- Member of the [RoboCup Junior](https://www.robocup.org/) team, where we program robots to compete in international robotics soccer competitions.
+<p align="center">
+  <img src="assets/status.svg" width="100%" alt="Current focus: backend, security, infrastructure and automation" />
+</p>
 
-## 📍 Stay Connected:
-- My portfolio : [Portfolio](https://rom98759.github.io/)
-- Follow me on GitHub: [rom98759](https://github.com/rom98759)
-- Email me: [rcaillie@student.42angouleme.fr](mailto:rcaillie@student.42angouleme.fr)
+## `whoami`
 
+I'm a software developer student at [42 Angoulême](https://42angouleme.fr/), interested in the point where **software engineering, infrastructure and security** meet.
+
+I like understanding the whole system: the application, its APIs, the Linux host, the network and the controls that keep everything observable and resilient.
+
+> Build it. Break it. Understand why. Automate the lesson.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### DEVELOPMENT
+
+Systems programming, backend services and APIs.
+
+`C` `C++` `Python` `TypeScript`
+
+</td>
+<td width="33%" valign="top">
+
+### SECURITY
+
+Application security, API auditing and attack analysis.
+
+`AppSec` `OpenAPI` `Pentest` `Monitoring`
+
+</td>
+<td width="33%" valign="top">
+
+### INFRASTRUCTURE
+
+Linux systems, containers and reproducible deployments.
+
+`Docker` `Kubernetes` `Nginx` `Cloudflare`
+
+</td>
+</tr>
+</table>
+
+## System map
+
+This is how I connect the different parts of a project:
+
+<p align="center">
+  <img src="assets/skill-map.svg" width="100%" alt="Map connecting backend, infrastructure, security and automation" />
+</p>
+
+```mermaid
+flowchart LR
+  Client[Client] --> API[API]
+  API --> Backend[Backend]
+  Backend --> Data[(Database)]
+  Backend --> Queue[(Redis)]
+  Backend --> Host[Linux host]
+  Host --> Observability[Logs and monitoring]
+  Observability --> Security[Security feedback]
+  Security --> Backend
+
+  classDef app fill:#164E63,stroke:#67E8F9,color:#ECFEFF,stroke-width:2px
+  classDef data fill:#312E81,stroke:#C4B5FD,color:#EDE9FE,stroke-width:2px
+  classDef infra fill:#14532D,stroke:#A7F3D0,color:#DCFCE7,stroke-width:2px
+  classDef security fill:#713F12,stroke:#FDE68A,color:#FEF3C7,stroke-width:2px
+
+  class Client,API,Backend app
+  class Data,Queue data
+  class Host,Observability infra
+  class Security security
+```
+
+## Featured projects
+
+The projects below are representative of the questions I like to explore. Each one starts with a system, a failure mode or an assumption worth testing.
+
+### API audit scanner
+
+![Security](https://img.shields.io/badge/SECURITY-FDE68A?style=flat-square&labelColor=713F12)
+
+> How different is the documented API from the application that actually runs?
+
+An automation tool for comparing an OpenAPI surface with observed application behaviour and highlighting security-relevant gaps.
+
+`OpenAPI` `REST` `Security` `Automation`
+
+<details>
+<summary><b>Architecture</b></summary>
+
+```mermaid
+flowchart LR
+    Spec[OpenAPI spec] --> Scanner[Scanner]
+    Target[Running API] --> Scanner
+    Scanner --> Findings[Findings]
+    Findings --> Report[Security report]
+
+  classDef source fill:#164E63,stroke:#67E8F9,color:#ECFEFF,stroke-width:2px
+  classDef process fill:#14532D,stroke:#A7F3D0,color:#DCFCE7,stroke-width:2px
+  classDef result fill:#713F12,stroke:#FDE68A,color:#FEF3C7,stroke-width:2px
+
+  class Spec,Target source
+  class Scanner process
+  class Findings,Report result
+```
+
+</details>
+
+### Honeypot and monitoring
+
+![Monitoring](https://img.shields.io/badge/MONITORING-A7F3D0?style=flat-square&labelColor=14532D)
+
+> What does automated traffic reveal when a service is deliberately exposed?
+
+A self-hosted environment for collecting, parsing and analysing suspicious activity around exposed services.
+
+`Linux` `Docker` `Networking` `Python`
+
+<details>
+<summary><b>Architecture</b></summary>
+
+```mermaid
+flowchart LR
+    Internet --> Gateway[Nginx]
+    Gateway --> Honeypot[Honeypot service]
+    Honeypot --> Logs[Raw logs]
+    Logs --> Parser[Parser]
+    Parser --> Store[(SQLite)]
+    Store --> Dashboard[Analysis]
+
+  classDef external fill:#312E81,stroke:#C4B5FD,color:#EDE9FE,stroke-width:2px
+  classDef service fill:#14532D,stroke:#A7F3D0,color:#DCFCE7,stroke-width:2px
+  classDef detection fill:#713F12,stroke:#FDE68A,color:#FEF3C7,stroke-width:2px
+  classDef analysis fill:#164E63,stroke:#67E8F9,color:#ECFEFF,stroke-width:2px
+
+  class Internet external
+  class Gateway,Honeypot service
+  class Logs,Parser detection
+  class Store,Dashboard analysis
+```
+
+</details>
+
+### Self-hosted infrastructure
+
+![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-A7F3D0?style=flat-square&labelColor=14532D)
+
+> How can personal services stay simple, observable and reasonably protected?
+
+Linux infrastructure for containers, reverse proxying, HTTPS, DNS and security controls.
+
+`Linux` `Docker` `Nginx` `Cloudflare`
+
+### Local AI playground
+
+![Experiment](https://img.shields.io/badge/EXPERIMENT-C4B5FD?style=flat-square&labelColor=4C1D95)
+
+> What changes when inference runs locally instead of behind an API?
+
+Experiments with local inference, quantization, context size, memory usage and developer tooling.
+
+`Ollama` `llama.cpp` `Open WebUI` `Linux`
+
+## Lab
+
+<p align="center">
+  <img src="assets/lab.svg" width="100%" alt="Current experiments in local AI, security, infrastructure and hardware" />
+</p>
+
+## 42 projects
+
+42 has been my foundation for systems programming, Unix environments, networking and collaborative development.
+
+| Project | Focus |
+| --- | --- |
+| [Libft](https://github.com/rom98759/Libft) · [ft_printf](https://github.com/rom98759/ft_printf) · [get_next_line](https://github.com/rom98759/Get-Next-Line) | C, memory, file descriptors |
+| [Minitalk](https://github.com/rom98759/Minitalk) · [push_swap](https://github.com/rom98759/push_swap) | Processes, signals, algorithms |
+| [Philosophers](https://github.com/rom98759/Philosophers) · [minishell](https://github.com/rom98759/minishell) | Threads, synchronisation, Unix |
+| [cub3d](https://github.com/rom98759/cub3d) · [NetPractice](https://github.com/rom98759/netpractice) | Graphics, networking, TCP/IP |
+| [ft_irc](https://github.com/rom98759/ft_irc) · [Inception](https://github.com/rom98759/inception) | C++, Docker, services |
+
+## Technical landscape
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,typescript,javascript,nodejs,react,postgresql,redis,linux,docker,kubernetes,nginx,gitlab,github" alt="C, C++, Python, Bash, TypeScript, JavaScript, Node.js, React, PostgreSQL, Redis, Linux, Docker, Kubernetes, Nginx, GitLab and GitHub" />
+</p>
+
+## Journey
+
+| Period | Direction |
+| --- | --- |
+| Robotics | Programming robots and competing with RoboCup Junior teams |
+| 42 | C, Unix, systems programming, networking and C++ |
+| Projects | Backend development, Linux, Docker and self-hosting |
+| Today | Security automation, DevSecOps and local AI |
+
+## Contact
+
+I'm interested in backend development, security engineering and infrastructure projects where understanding the system matters.
+
+- Website: [caillier-romain.fr](https://caillier-romain.fr)
+- LinkedIn: [romain-caillier](https://www.linkedin.com/in/romain-caillier/)
+- GitHub: [rom98759](https://github.com/rom98759)
+- Email: [rcaillie@student.42angouleme.fr](mailto:rcaillie@student.42angouleme.fr)
