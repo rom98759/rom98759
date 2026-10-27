@@ -75,4 +75,4 @@ Tous les projets : [caillier-romain.fr/projets](https://caillier-romain.fr/proje
 
 ## Contact
 
-Le plus simple : la [section contact](https://caillier-romain.fr/#contact) du site (e-mail affiché au clic) ou un message sur [LinkedIn](https://www.linkedin.com/in/romain-caillier/).
+**[Écrivez-moi sur LinkedIn](https://www.linkedin.com/in/romain-caillier/)** · [e-mail et CV sur caillier-romain.fr](https://caillier-romain.fr/#contact)

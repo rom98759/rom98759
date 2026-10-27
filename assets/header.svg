@@ -48,6 +48,7 @@
     </circle>
   </g>
 
+  <rect x="310" y="96" width="580" height="152" rx="12" fill="#111827" fill-opacity="0.94" stroke="#67E8F9" stroke-opacity="0.25"/>
   <g text-anchor="middle" font-family="monospace">
     <text x="600" y="145" fill="#F8FAFC" font-size="46" font-weight="700" letter-spacing="2">ROMAIN CAILLIER</text>
     <text x="600" y="184" fill="#A7F3D0" font-size="18" letter-spacing="3">DEVSECOPS · INFRASTRUCTURE · SÉCURITÉ</text>
