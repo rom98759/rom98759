@@ -1,217 +1,78 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Romain Caillier - Software, Security, Infrastructure" />
+<img src="assets/header.svg" width="100%" alt="Romain Caillier — DevSecOps, infrastructure, sécurité" />
 
 <p>
   <a href="https://caillier-romain.fr"><img src="https://img.shields.io/badge/Portfolio-caillier--romain.fr-172337?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://caillier-romain.fr/cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-172337?style=for-the-badge" alt="CV (PDF)" /></a>
   <a href="https://www.linkedin.com/in/romain-caillier/"><img src="https://img.shields.io/badge/LinkedIn-172337?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/rom98759"><img src="https://img.shields.io/badge/GitHub-172337?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
+
+**🔎 Recherche d'alternance DevSecOps · dès juin 2027**<br />
+RNCP 7 (Bac+5) Expert en architecture informatique · 12 mois · 3 semaines entreprise / 1 semaine école<br />
+Bordeaux de préférence, mobile partout en France
 
 </div>
 
-<p align="center">
-  <img src="assets/status.svg" width="100%" alt="Current focus: backend, security, infrastructure and automation" />
-</p>
-
 ## `whoami`
 
-I'm a software developer student at [42 Angoulême](https://42angouleme.fr/), interested in the point where **software engineering, infrastructure and security** meet.
+Étudiant à [42 Angoulême](https://42angouleme.fr/), je travaille là où **l'infrastructure, l'automatisation et la sécurité** se rejoignent.
+Je fais tourner ma propre infra en production (VPS, homelab, Docker, reverse proxy, CI) et j'ai une expérience de **pentest d'infrastructure en entreprise**.
 
-I like understanding the whole system: the application, its APIs, the Linux host, the network and the controls that keep everything observable and resilient.
-
-> Build it. Break it. Understand why. Automate the lesson.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### DEVELOPMENT
-
-Systems programming, backend services and APIs.
-
-`C` `C++` `Python` `TypeScript`
-
-</td>
-<td width="33%" valign="top">
-
-### SECURITY
-
-Application security, API auditing and attack analysis.
-
-`AppSec` `OpenAPI` `Pentest` `Monitoring`
-
-</td>
-<td width="33%" valign="top">
-
-### INFRASTRUCTURE
-
-Linux systems, containers and reproducible deployments.
-
-`Docker` `Kubernetes` `Nginx` `Cloudflare`
-
-</td>
-</tr>
-</table>
-
-## System map
-
-This is how I connect the different parts of a project:
+> Je déploie, j'automatise, je sécurise — et je teste comme un attaquant.
 
 <p align="center">
-  <img src="assets/skill-map.svg" width="100%" alt="Map connecting backend, infrastructure, security and automation" />
+  <img src="assets/skill-map.svg" width="100%" alt="Carte reliant backend, infrastructure, sécurité et automatisation" />
 </p>
 
-```mermaid
-flowchart LR
-  Client[Client] --> API[API]
-  API --> Backend[Backend]
-  Backend --> Data[(Database)]
-  Backend --> Queue[(Redis)]
-  Backend --> Host[Linux host]
-  Host --> Observability[Logs and monitoring]
-  Observability --> Security[Security feedback]
-  Security --> Backend
+## Projets phares
 
-  classDef app fill:#164E63,stroke:#67E8F9,color:#ECFEFF,stroke-width:2px
-  classDef data fill:#312E81,stroke:#C4B5FD,color:#EDE9FE,stroke-width:2px
-  classDef infra fill:#14532D,stroke:#A7F3D0,color:#DCFCE7,stroke-width:2px
-  classDef security fill:#713F12,stroke:#FDE68A,color:#FEF3C7,stroke-width:2px
+Le code de certains projets est en cours d'assainissement avant publication : les études de cas détaillent l'architecture, les choix et les difficultés.
 
-  class Client,API,Backend app
-  class Data,Queue data
-  class Host,Observability infra
-  class Security security
-```
+| Projet | En bref | Liens |
+| --- | --- | --- |
+| **Infra en production + honeypot SSH** | 7 stacks Docker Compose sur 2 hôtes. Le port 22 du VPS est un piège : **239 088 connexions** piégées depuis août 2026, bannissement fail2ban piloté depuis un dashboard sans privilège. | [Étude de cas](https://caillier-romain.fr/projets/infra.html) |
+| **Territory Twin** | Jumeau numérique territorial (INSEE, BPE, RPPS) pour simuler la fermeture d'un service sur ~35 000 communes. ~1 100 tests automatisés. | [Étude de cas](https://caillier-romain.fr/projets/territory-twin.html) · [Démo](https://territoire.caillier-romain.fr/?territory=nouvelle-aquitaine) |
+| **Lab de pentest IA isolé** | Évaluer des agents de pentest à LLM local sans exposer l'hôte : 4 couches d'isolation (systemd, nftables, proxy filtrant, Docker rootless), modèle de menace. | [Étude de cas](https://caillier-romain.fr/projets/lab-pentest-llm.html) |
+| **Kubernetes et GitOps** | K3s sur VM Vagrant, puis K3d + Argo CD, jusqu'à un GitLab local dans le cluster. En binôme. | [Étude de cas](https://caillier-romain.fr/projets/kubernetes.html) · [Code](https://github.com/rom98759/Inception-of-Things) |
+| **Inception** | Infra conteneurisée Nginx / WordPress / MariaDB (+ Redis, FTP, Adminer) via Docker Compose. | [Code](https://github.com/rom98759/inception) |
+| **Veille technologique locale** | Flux RSS triés et résumés par un LLM local, rapport HTML autonome. Rien ne sort du poste. | [Code](https://github.com/rom98759/llm_veille_tech) |
 
-## Featured projects
-
-The projects below are representative of the questions I like to explore. Each one starts with a system, a failure mode or an assumption worth testing.
-
-### API audit scanner
-
-![Security](https://img.shields.io/badge/SECURITY-FDE68A?style=flat-square&labelColor=713F12)
-
-> How different is the documented API from the application that actually runs?
-
-An automation tool for comparing an OpenAPI surface with observed application behaviour and highlighting security-relevant gaps.
-
-`OpenAPI` `REST` `Security` `Automation`
-
-<details>
-<summary><b>Architecture</b></summary>
-
-```mermaid
-flowchart LR
-    Spec[OpenAPI spec] --> Scanner[Scanner]
-    Target[Running API] --> Scanner
-    Scanner --> Findings[Findings]
-    Findings --> Report[Security report]
-
-  classDef source fill:#164E63,stroke:#67E8F9,color:#ECFEFF,stroke-width:2px
-  classDef process fill:#14532D,stroke:#A7F3D0,color:#DCFCE7,stroke-width:2px
-  classDef result fill:#713F12,stroke:#FDE68A,color:#FEF3C7,stroke-width:2px
-
-  class Spec,Target source
-  class Scanner process
-  class Findings,Report result
-```
-
-</details>
-
-### Honeypot and monitoring
-
-![Monitoring](https://img.shields.io/badge/MONITORING-A7F3D0?style=flat-square&labelColor=14532D)
-
-> What does automated traffic reveal when a service is deliberately exposed?
-
-A self-hosted environment for collecting, parsing and analysing suspicious activity around exposed services.
-
-`Linux` `Docker` `Networking` `Python`
-
-<details>
-<summary><b>Architecture</b></summary>
-
-```mermaid
-flowchart LR
-    Internet --> Gateway[Nginx]
-    Gateway --> Honeypot[Honeypot service]
-    Honeypot --> Logs[Raw logs]
-    Logs --> Parser[Parser]
-    Parser --> Store[(SQLite)]
-    Store --> Dashboard[Analysis]
-
-  classDef external fill:#312E81,stroke:#C4B5FD,color:#EDE9FE,stroke-width:2px
-  classDef service fill:#14532D,stroke:#A7F3D0,color:#DCFCE7,stroke-width:2px
-  classDef detection fill:#713F12,stroke:#FDE68A,color:#FEF3C7,stroke-width:2px
-  classDef analysis fill:#164E63,stroke:#67E8F9,color:#ECFEFF,stroke-width:2px
-
-  class Internet external
-  class Gateway,Honeypot service
-  class Logs,Parser detection
-  class Store,Dashboard analysis
-```
-
-</details>
-
-### Self-hosted infrastructure
-
-![Infrastructure](https://img.shields.io/badge/INFRASTRUCTURE-A7F3D0?style=flat-square&labelColor=14532D)
-
-> How can personal services stay simple, observable and reasonably protected?
-
-Linux infrastructure for containers, reverse proxying, HTTPS, DNS and security controls.
-
-`Linux` `Docker` `Nginx` `Cloudflare`
-
-### Local AI playground
-
-![Experiment](https://img.shields.io/badge/EXPERIMENT-C4B5FD?style=flat-square&labelColor=4C1D95)
-
-> What changes when inference runs locally instead of behind an API?
-
-Experiments with local inference, quantization, context size, memory usage and developer tooling.
-
-`Ollama` `llama.cpp` `Open WebUI` `Linux`
+Tous les projets : [caillier-romain.fr/projets](https://caillier-romain.fr/projets/)
 
 ## Lab
 
 <p align="center">
-  <img src="assets/lab.svg" width="100%" alt="Current experiments in local AI, security, infrastructure and hardware" />
+  <img src="assets/lab.svg" width="100%" alt="Expériences en cours : IA locale, sécurité, infrastructure et matériel" />
 </p>
 
-## 42 projects
+## Projets 42
 
-42 has been my foundation for systems programming, Unix environments, networking and collaborative development.
+42 m'a donné les bases : programmation système, Unix, réseau et travail en équipe.
 
-| Project | Focus |
+| Projets | Notions |
 | --- | --- |
-| [Libft](https://github.com/rom98759/Libft) · [ft_printf](https://github.com/rom98759/ft_printf) · [get_next_line](https://github.com/rom98759/Get-Next-Line) | C, memory, file descriptors |
-| [Minitalk](https://github.com/rom98759/Minitalk) · [push_swap](https://github.com/rom98759/push_swap) | Processes, signals, algorithms |
-| [Philosophers](https://github.com/rom98759/Philosophers) · [minishell](https://github.com/rom98759/minishell) | Threads, synchronisation, Unix |
-| [cub3d](https://github.com/rom98759/cub3d) · [NetPractice](https://github.com/rom98759/netpractice) | Graphics, networking, TCP/IP |
-| [ft_irc](https://github.com/rom98759/ft_irc) · [Inception](https://github.com/rom98759/inception) | C++, Docker, services |
+| [Libft](https://github.com/rom98759/BIG_LIBFT) · [ft_printf](https://github.com/rom98759/ft_printf) · [get_next_line](https://github.com/rom98759/Get-Next-Line) | C, mémoire, descripteurs de fichiers |
+| [Minitalk](https://github.com/rom98759/Minitalk) · [Philosophers](https://github.com/rom98759/Philosophers) | Processus, signaux, threads, synchronisation |
+| [Minishell](https://github.com/rom98759/Minishell) · [cub3d](https://github.com/rom98759/cub3d) | Shell Unix, parsing, raycasting |
+| [ft_irc](https://github.com/rom98759/ft_irc) · [Transcendence](https://github.com/rom98759/transcendence) | Réseau C++, microservices, temps réel |
+| [Inception](https://github.com/rom98759/inception) · [Inception-of-Things](https://github.com/rom98759/Inception-of-Things) | Docker, Kubernetes, GitOps |
 
-## Technical landscape
+## Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,typescript,javascript,nodejs,react,postgresql,redis,linux,docker,kubernetes,nginx,gitlab,github" alt="C, C++, Python, Bash, TypeScript, JavaScript, Node.js, React, PostgreSQL, Redis, Linux, Docker, Kubernetes, Nginx, GitLab and GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,nginx,githubactions,gitlab,python,c,cpp,typescript,nodejs,react,postgresql,redis" alt="Linux, Bash, Docker, Kubernetes, Nginx, GitHub Actions, GitLab, Python, C, C++, TypeScript, Node.js, React, PostgreSQL et Redis" />
 </p>
 
-## Journey
+## Parcours
 
-| Period | Direction |
+| Étape | Ce que j'y ai fait |
 | --- | --- |
-| Robotics | Programming robots and competing with RoboCup Junior teams |
-| 42 | C, Unix, systems programming, networking and C++ |
-| Projects | Backend development, Linux, Docker and self-hosting |
-| Today | Security automation, DevSecOps and local AI |
+| Lycée | Bac maths-informatique mention Bien, club de robotique, compétition CSAW Red Team |
+| 42 Angoulême | C, Unix, réseau, C++, Docker, Kubernetes — titre RNCP 7 visé |
+| 2026 | Stage de pentest d'infrastructure en entreprise |
+| Juin 2027 | Alternance DevSecOps / cloud / infra — **c'est là que vous intervenez** |
 
 ## Contact
 
-I'm interested in backend development, security engineering and infrastructure projects where understanding the system matters.
-
-- Website: [caillier-romain.fr](https://caillier-romain.fr)
-- LinkedIn: [romain-caillier](https://www.linkedin.com/in/romain-caillier/)
-- GitHub: [rom98759](https://github.com/rom98759)
-- Email: [rcaillie@student.42angouleme.fr](mailto:rcaillie@student.42angouleme.fr)
+Le plus simple : la [section contact](https://caillier-romain.fr/#contact) du site (e-mail affiché au clic) ou un message sur [LinkedIn](https://www.linkedin.com/in/romain-caillier/).

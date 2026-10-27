@@ -1,6 +1,6 @@
 <svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Romain Caillier - Software, Security, Infrastructure</title>
-  <desc id="desc">A dark technical network with animated data packets around the profile title.</desc>
+  <title id="title">Romain Caillier — DevSecOps, infrastructure, sécurité</title>
+  <desc id="desc">Réseau technique sombre avec des paquets animés autour du nom.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
       <stop stop-color="#101827"/>
@@ -50,7 +50,7 @@
 
   <g text-anchor="middle" font-family="monospace">
     <text x="600" y="145" fill="#F8FAFC" font-size="46" font-weight="700" letter-spacing="2">ROMAIN CAILLIER</text>
-    <text x="600" y="184" fill="#A7F3D0" font-size="18" letter-spacing="3">SOFTWARE · SECURITY · INFRASTRUCTURE</text>
-    <text x="600" y="226" fill="#CBD5E1" font-size="14">BUILD  /  BREAK  /  UNDERSTAND  /  AUTOMATE</text>
+    <text x="600" y="184" fill="#A7F3D0" font-size="18" letter-spacing="3">DEVSECOPS · INFRASTRUCTURE · SÉCURITÉ</text>
+    <text x="600" y="226" fill="#CBD5E1" font-size="14">DÉPLOYER  /  AUTOMATISER  /  SÉCURISER  /  ATTAQUER</text>
   </g>
 </svg>

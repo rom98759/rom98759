@@ -1,6 +1,6 @@
 <svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Technical landscape</title>
-  <desc id="desc">A map connecting backend development, systems, infrastructure and security.</desc>
+  <title id="title">Paysage technique</title>
+  <desc id="desc">Carte reliant développement backend, systèmes, infrastructure et sécurité.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
       <stop stop-color="#101827"/><stop offset="1" stop-color="#182536"/>
@@ -20,15 +20,15 @@
       <rect x="850" y="46" width="280" height="92" rx="12"/>
       <rect x="850" y="292" width="280" height="92" rx="12"/>
     </g>
-    <text x="600" y="198" fill="#F8FAFC" font-size="24" font-weight="700">SYSTEMS</text>
-    <text x="600" y="228" fill="#A7F3D0" font-size="15">UNDERSTAND THE WHOLE STACK</text>
+    <text x="600" y="198" fill="#F8FAFC" font-size="24" font-weight="700">SYSTÈMES</text>
+    <text x="600" y="228" fill="#A7F3D0" font-size="15">COMPRENDRE TOUTE LA PILE</text>
     <text x="210" y="82" fill="#67E8F9" font-size="19" font-weight="700">BACKEND</text>
     <text x="210" y="111" fill="#CBD5E1" font-size="14">C · C++ · Python · APIs</text>
     <text x="210" y="328" fill="#67E8F9" font-size="19" font-weight="700">INFRASTRUCTURE</text>
     <text x="210" y="357" fill="#CBD5E1" font-size="14">Linux · Docker · Kubernetes</text>
-    <text x="990" y="82" fill="#FDE68A" font-size="19" font-weight="700">SECURITY</text>
+    <text x="990" y="82" fill="#FDE68A" font-size="19" font-weight="700">SÉCURITÉ</text>
     <text x="990" y="111" fill="#CBD5E1" font-size="14">AppSec · APIs · Pentest</text>
-    <text x="990" y="328" fill="#FDE68A" font-size="19" font-weight="700">AUTOMATION</text>
-    <text x="990" y="357" fill="#CBD5E1" font-size="14">Bash · CI/CD · Monitoring</text>
+    <text x="990" y="328" fill="#FDE68A" font-size="19" font-weight="700">AUTOMATISATION</text>
+    <text x="990" y="357" fill="#CBD5E1" font-size="14">Bash · CI/CD · Supervision</text>
   </g>
 </svg>
